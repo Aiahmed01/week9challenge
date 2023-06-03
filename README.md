@@ -1,68 +1,37 @@
 
+# The README Generated for Professional README Generator.
 
-# The ReadME Generated for Professional README Generator. is created 
+## Table of Contents
 
-## Table of Content : 
-
-- [Table of Content](#content)
-
-- [description](#description)
-
-- [installation](#installation)
-
-- [usage](#usage)
-
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
+- [Contact](#contact)
 
-- [Contact Me](#contactMe)
+## Description
 
-
-
-
-
-
-
-
-This is a Description about the Homework/Project <a name="description"></a>
-## User Story
 The task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the inquirer package.
 
+## Installation
 
+npm and inquirer package
 
+## Usage
 
+The project is used to create a readme file with a specific answers that will reflect on the readme file.
 
+## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[MIT License](https://opensource.org/licenses/MIT)
 
-For Installation I used npm and inquirer package<a name="installation"></a>
+## License
 
+This project is licensed under the MIT.
 
+## Contact
 
-
-
-
-
-
-
-
-
-
-Usage: <a name="usage"></a>
-The project is used to create a readme file with a specific answers that will reflect on the readme file. 
-
-
-
-
-* Licenses: MIT <a name="license"></a>
-
-
-
-
-## If you have any questions please find me at : <a name="contactMe"></a>
-
-
-
-# 1- Github: Github.com/Aiahmed01
-
-# 2- Email: abdulla@mail.com
-
+GitHub: [Aiahmed01](https://github.com/Aiahmed01)
+Email: Abdulla@mail.com
